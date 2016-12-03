@@ -1,4 +1,4 @@
-Julekalender
+Julekalender Oiwindo version
 ============
 Enkel app som velger vinner av dagens julekalenderluke. Skrevet i node med Parse
 
